@@ -16,7 +16,7 @@ of 98 Climatic, Social, Economic and Governmental factors as putative causes,
 showing that besides the impact of alternative land uses, the models infer an important
 role for the *Sembrando Vida* government program.
 
-# CLASSES
+# Classes
 The data that was used to calculate the deforestation metrics we define
 below in section 4.2 was the deforestation area in Mexico in 2020 considering
 the loss band defined as a stand replacement disturbance (a change from a
@@ -38,7 +38,7 @@ Mexican municipalities with the highest values of the following categories:
 3. Percentage loss of forest cover in 2020 relative to the municipal forest
 cover in 2000.
 
-# PREDICTORS  
+# Predictors 
 As predictors we considered 98 interval variables divided into 6 types:
 39 social, 19 economic, 18 governmental, 19 climatic, 2 forest cover and
 one municipal area variable.
