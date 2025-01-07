@@ -50,4 +50,4 @@ one municipal area variable.
 # CHILAM LAB 
 This project is affiliated with the CHILAM laboratory <https://chilam.c3.unam.mx/>
 
-Tambien se encuentra en el siguiente repositorio [GitHub] (https://github.com/chilam-lab)
+For further information, please visit the GitHub repository (https://github.com/chilam-lab)
