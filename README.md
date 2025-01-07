@@ -14,7 +14,7 @@ quantified by its effect size, coverage, statistical significance and potential 
 a usecase we predict deforestation at the municipal level in Mexico in 2020 using a set
 of 98 Climatic, Social, Economic and Governmental factors as putative causes,
 showing that besides the impact of alternative land uses, the models infer an important
-role for the {\it Sembrando Vida} government program.
+role for the *Sembrando Vida* government program.
 
 # CHILAM LAB 
 Este proyecto forma parte del laboratorio CHILAM <https://chilam.c3.unam.mx/>
