@@ -1,6 +1,10 @@
 
 # A Hybrid Intelligence Approach to Predicting and Explaining Land use and Land Cover Change using Bayesian Classifiers
-Christopher Rhodes Stephens, Constantino González-Salazar, José García-Hernández
+**Christopher Rhodes Stephens** (Centro de Ciencias Nucleares, Centro de Ciencias de la Complejidad, UNAM)
+
+**Constantino González-Salazar** (Instituto de Ciencias de la Atmósfera y Cambio Climático, UNAM)
+
+**José García-Hernández** (Centro de Investigaciones en Geografía Ambiental UNAM)
 
 # Abstract
 The future health of land systems depends on our ability to quantify and understand
