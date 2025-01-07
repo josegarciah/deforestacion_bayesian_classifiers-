@@ -48,6 +48,6 @@ As predictors we considered 98 interval variables divided into 6 types:
 one municipal area variable.
 
 # CHILAM LAB 
-Este proyecto forma parte del laboratorio CHILAM <https://chilam.c3.unam.mx/>
+This project is affiliated with the CHILAM laboratory <https://chilam.c3.unam.mx/>
 
 Tambien se encuentra en el siguiente repositorio [GitHub] (https://github.com/chilam-lab)
