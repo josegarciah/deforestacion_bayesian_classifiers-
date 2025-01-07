@@ -16,3 +16,7 @@ of 98 Climatic, Social, Economic and Governmental factors as putative causes,
 showing that besides the impact of alternative land uses, the models infer an important
 role for the {\it Sembrando Vida} government program.
 
+# CHILAM LAB 
+Este proyecto forma parte del laboratorio CHILAM <https://chilam.c3.unam.mx/>
+
+Tambien se encuentra en el siguiente repositorio [GitHub] (https://github.com/chilam-lab)
